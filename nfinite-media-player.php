@@ -2,7 +2,7 @@
 /*
 Plugin Name: Nfinite Media Player
 Description: Sleek WordPress audio player for hip-hop producers & artists with Elementor widget, Playlists, and Buy links.
-Version: 0.1.4
+Version: 0.1.5
 Author: SitesByYogi
 License: GPLv2 or later
 Text Domain: nfinite-media-player
@@ -11,7 +11,7 @@ Text Domain: nfinite-media-player
 if ( ! defined('ABSPATH') ) { exit; }
 
 // Constants
-define('NMP_VER', '0.1.4');
+define('NMP_VER', '0.1.5');
 define('NMP_PATH', plugin_dir_path(__FILE__));
 define('NMP_URL', plugin_dir_url(__FILE__));
 
